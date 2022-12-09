@@ -48,11 +48,6 @@ body {
     overflow-y: scroll;
 }
 
-/* style for funfact text */
-.funfact {
-    text-align: center;
-}
-
 /* change to vertical layout when shrinking in width */
 @media screen and (max-width: 650px) {
     .aboutme {
