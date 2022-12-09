@@ -40,6 +40,11 @@ body {
     overflow-y: scroll;
 }
 
+iframe {
+    margin:auto;
+    display:block;
+}
+
 #aboutme-image {
     border-radius: 50%;
     width: 40vw;
